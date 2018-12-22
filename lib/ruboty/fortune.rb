@@ -2,7 +2,7 @@ require "ruboty/fortune/version"
 require "ruboty/handlers/fortune"
 
 module Ruboty
-  module fortune
+  module Fortune
     # Your code goes here...
   end
 end

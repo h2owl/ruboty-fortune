@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["huckruowl2@gmail.com"]
 
   spec.summary       = %q{this gem is a ruboty-plugin to get fortune of a day from yahoo}
-  spec.description   = %q{this gem is a ruboty-plugin to get fortune of a day from yahoo}
+  spec.description   = %q{this gem is a ruboty-plugin to get fortune of a day from yahoo. (only Japanese, as of now)}
   spec.homepage      = "https://github.com/h2owl/ruboty-fortune"
 
   ## Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'

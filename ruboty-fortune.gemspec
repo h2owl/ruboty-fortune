@@ -39,4 +39,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "ruboty"
   spec.add_development_dependency "nokogiri"
+
+  spec.add_dependency "ruboty"
+  spec.add_dependency "nokogiri"
 end
